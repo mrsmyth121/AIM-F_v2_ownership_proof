@@ -1,0 +1,3 @@
+Folder: /home/kenny/AIM-F_v2
+Hash command: find ... | sha256sum
+Sun Apr 12 10:14:33 CDT 2026
